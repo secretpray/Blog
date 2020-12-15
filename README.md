@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+== Blog app
 
-Things you may want to cover:
 
-* Ruby version
+I built a simple blog, where I can create posts (as well as edit and delete them), visitors can comment on posts, and I can log in out out.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+{View the demo application here}[http://week-2-blog.herokuapp.com/]
